@@ -1,4 +1,4 @@
-# JavaScript Objects
+# Javascript Objects
 
 ![Objects](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.skillshare.com%2Fuploads%2FparentClasses%2F17abe69859d068286c56e7bd03294415%2Fb0876504&f=1&nofb=1)
 
