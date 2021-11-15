@@ -244,7 +244,7 @@ Square brackets are nice if you need to programmatically generate a key name:
 
 ```javascript
 const obj = {}
-for (var i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   obj['key' + i] = 'foo'
 }
 console.log(obj)
@@ -292,7 +292,7 @@ if (obj.whatevs == 'hi') {
   console.log('ok')
 }
 
-for (var i = 0; i < obj.count; i++) {
+for (let i = 0; i < obj.count; i++) {
   console.log(i)
 }
 ```
